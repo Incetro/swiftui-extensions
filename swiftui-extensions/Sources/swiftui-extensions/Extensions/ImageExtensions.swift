@@ -1,5 +1,5 @@
 //
-//  ImageExtensions.swift
+//  Image + Extensions.swift
 //  swiftui-extensions
 //
 //  Created by Andrey Barsukov on 01.06.2025.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-// MARK: - Image
+// MARK: - Image + Extensions
 
 public extension Image {
     
