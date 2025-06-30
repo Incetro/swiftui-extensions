@@ -1,5 +1,5 @@
 # SwiftUI Extensions Package ✨
-A collection of helpful extensions, utilities, and boilerplate reducers for The Composable Architecture.
+A collection of powerful extensions and utilities to supercharge your SwiftUI development.
 
 ---
 
@@ -39,7 +39,6 @@ Or add via Xcode:
 
 ## 🚀 Usage
 1. Import the Package
-In any file where you need TCA extensions:
 ```
 import SwiftUIExtensions
 ```
